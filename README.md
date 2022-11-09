@@ -1,5 +1,5 @@
 ## Suzune Robot 
-Made And Managed By [Me](https://t.me/DesiNobita) On Telegram [.](https://telegra.ph/file/3a28520cb98181779349f.mp4)
+Made And Managed By [Me](https://t.me/HATER_BOY_MBL) On Telegram [.](https://telegra.ph/file/e76a3136b1047f8afc78f.jpg/
 
 ## Group Management 
 
@@ -9,17 +9,15 @@ Can be found on telegram as GroupManager.
 
 Alternatively, find me on telegram! (Keep all support questions in the support chat, where more people can help you.)
 
-You can also join our support group [here](https://t.me/Suzune_Support)
-
+You can also join our support group [here](https://t.me/MBL_BAAP)
 ## Deploy To Heroku
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/desinobita/suzunerobot)
-
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/HUBMoRAL1)
 ## Bot
-Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](https://t.me/Suzune_Superbot)
+Available On Telegram As [MBL BAAP ](https://t.me/MBL_BAAP)
 
 ## Report Error 
-Report your problem along with your name to [this group](https://t.me/Suzune_Support)
+Report your problem along with your name to [this group](https://github.com/HUBMoRAL1)
 
-## [Contributors](https://github.com/desinobita/SuzuneRobot/graphs/contributors)
+## [Contributors](https://github.com/HUBMoRAL1/contributors)
  
-[![Contributors](https://contrib.rocks/image?repo=desinobita/SuzuneRobot)](https://github.com/desinobita/SuzuneRobot/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=desinobita/SuzuneRobot)](https://github.com/HUBMoRAL1//SuzuneRobot/graphs/contributors)
